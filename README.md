@@ -1,19 +1,7 @@
 # SudokuSolver
 An android application that can solve a Sudoku puzzle by both manual and camera mode. Where the manual mode needs to enter numbers in each cell in the grid as in the puzzle whereas the in-camera mode device scans an image of Sudoku by using image processing and provide the solution for it.
 
-### Screenshots of Working App :
-
-![Input Puzzle in Manual mode](/images/1.png)
-
-![Input Puzzle in Manual mode](/images/2.png)
-
-![Input Puzzle in Manual mode](/images/3.png)
-
-![Solved Puzzle in Manual mode](/images/4.png)
-
-![Solved Puzzle in Camera mode](/images/Image3.png)
-
-![Saved Image on Device storage](/images/croped outer block.jpeg)
+### Screenshots of Working App are in images folder:
 
 ### Used Technologies:
 1. Android NDK
