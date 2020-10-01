@@ -13,4 +13,4 @@ An android application that can solve a Sudoku puzzle by both manual and camera 
 2. Make sure your IDE have NDK support.
  
 
-**Note:** *The App's Camera mode doesn't run on xiaomi devices. The reason behind the failure of camera mode in xiaomi devices is that the xiaomi device did not support the background synchronized thread. So, the OpenCV can’t be loaded on the device and hence the camera mode is crashed.*
+**Note:** *The App's Camera mode does not work on Xiaomi devices the reason being they do not allow background synchronized threads. So, the OpenCV cannot be loaded and hence the camera mode crashes.*
